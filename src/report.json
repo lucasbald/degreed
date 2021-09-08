@@ -1,0 +1,53 @@
+{
+  "math": [
+    {
+      "name": "John",
+      "firstEvaluation": 7,
+      "secondEvaluation": 8
+    },
+    {
+      "name": "Mary",
+      "firstEvaluation": 4,
+      "secondEvaluation": 5
+    },
+    {
+      "name": "George",
+      "firstEvaluation": 5,
+      "secondEvaluation": 5
+    }
+  ],
+  "biology": [
+    {
+      "name": "John",
+      "firstEvaluation": 6,
+      "secondEvaluation": 8
+    },
+    {
+      "name": "Mary",
+      "firstEvaluation": 5,
+      "secondEvaluation": 7
+    },
+    {
+      "name": "George",
+      "firstEvaluation": 3,
+      "secondEvaluation": 4
+    }
+  ],
+  "english": [
+    {
+      "name": "John",
+      "firstEvaluation": 3,
+      "secondEvaluation": 5
+    },
+    {
+      "name": "Mary",
+      "firstEvaluation": 7,
+      "secondEvaluation": 9
+    },
+    {
+      "name": "George",
+      "firstEvaluation": 10,
+      "secondEvaluation": 5
+    }
+  ]
+}
