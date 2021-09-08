@@ -2,9 +2,10 @@ const path = require('path');
 const fs = require('fs');
 const dotenv = require('dotenv').config();
 const { checkUserEvaluation } = require('../src/service/average');
+const { VALID_INPUTS } = require('../src/config/config')
 
 const main = (subject) => {
-  if (!subject) {
+  if (!VALID_INPUTS.includes(subject)) {
     console.log(
       'Please insert a subject to be validated. \n' +
         'Accepted values: math, biology, english \n\n' +
